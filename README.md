@@ -1,4 +1,4 @@
-# Google_appStore_EDA
+# EDA (Exploratory Data Analysis)
 ## steps to perform EDA:
 1. Introduction to data:
 2. steps define how to upload data:
